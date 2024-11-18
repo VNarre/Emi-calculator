@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-06T10:12:58 IST" name="EMI_Calculator" finished-at="2024-11-06T10:14:13 IST" duration-ms="74229">
+    <groups>
+      <group name="regression">
+        <method signature="TS003_UiValidation.rInterest()[pri:3, instance:TestCase.TS003_UiValidation@c4ed84]" name="rInterest" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.yearLoanTenure()[pri:4, instance:TestCase.TS003_UiValidation@c4ed84]" name="yearLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.monthLoanTenure()[pri:5, instance:TestCase.TS003_UiValidation@c4ed84]" name="monthLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.amountLoan()[pri:6, instance:TestCase.TS003_UiValidation@c4ed84]" name="amountLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.tenureLoan()[pri:7, instance:TestCase.TS003_UiValidation@c4ed84]" name="tenureLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.rInterest()[pri:3, instance:TestCase.TS003_UiValidation@615091b8]" name="rInterest" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.yearLoanTenure()[pri:4, instance:TestCase.TS003_UiValidation@615091b8]" name="yearLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.monthLoanTenure()[pri:5, instance:TestCase.TS003_UiValidation@615091b8]" name="monthLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.amountLoan()[pri:6, instance:TestCase.TS003_UiValidation@615091b8]" name="amountLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.tenureLoan()[pri:7, instance:TestCase.TS003_UiValidation@615091b8]" name="tenureLoan" class="TestCase.TS003_UiValidation"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TS003_UiValidation.calcLoan()[pri:1, instance:TestCase.TS003_UiValidation@c4ed84]" name="calcLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.emiBtn()[pri:2, instance:TestCase.TS003_UiValidation@c4ed84]" name="emiBtn" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.calcLoan()[pri:1, instance:TestCase.TS003_UiValidation@615091b8]" name="calcLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.emiBtn()[pri:2, instance:TestCase.TS003_UiValidation@615091b8]" name="emiBtn" class="TestCase.TS003_UiValidation"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TS003_UiValidation.calcLoan()[pri:1, instance:TestCase.TS003_UiValidation@c4ed84]" name="calcLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.emiBtn()[pri:2, instance:TestCase.TS003_UiValidation@c4ed84]" name="emiBtn" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.rInterest()[pri:3, instance:TestCase.TS003_UiValidation@c4ed84]" name="rInterest" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.yearLoanTenure()[pri:4, instance:TestCase.TS003_UiValidation@c4ed84]" name="yearLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.monthLoanTenure()[pri:5, instance:TestCase.TS003_UiValidation@c4ed84]" name="monthLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.amountLoan()[pri:6, instance:TestCase.TS003_UiValidation@c4ed84]" name="amountLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.tenureLoan()[pri:7, instance:TestCase.TS003_UiValidation@c4ed84]" name="tenureLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.calcLoan()[pri:1, instance:TestCase.TS003_UiValidation@615091b8]" name="calcLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.emiBtn()[pri:2, instance:TestCase.TS003_UiValidation@615091b8]" name="emiBtn" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.rInterest()[pri:3, instance:TestCase.TS003_UiValidation@615091b8]" name="rInterest" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.yearLoanTenure()[pri:4, instance:TestCase.TS003_UiValidation@615091b8]" name="yearLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.monthLoanTenure()[pri:5, instance:TestCase.TS003_UiValidation@615091b8]" name="monthLoanTenure" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.amountLoan()[pri:6, instance:TestCase.TS003_UiValidation@615091b8]" name="amountLoan" class="TestCase.TS003_UiValidation"/>
+        <method signature="TS003_UiValidation.tenureLoan()[pri:7, instance:TestCase.TS003_UiValidation@615091b8]" name="tenureLoan" class="TestCase.TS003_UiValidation"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-11-06T10:12:58 IST" name="ChromeTest" finished-at="2024-11-06T10:14:10 IST" duration-ms="71802">
+      <class name="TestCase.TS003_UiValidation">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:13:50 IST" name="setup" finished-at="2024-11-06T10:13:58 IST" duration-ms="8386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="calcLoan()[pri:1, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:13:58 IST" name="calcLoan" finished-at="2024-11-06T10:14:00 IST" duration-ms="1589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calcLoan -->
+        <test-method signature="emiBtn()[pri:2, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:14:00 IST" name="emiBtn" finished-at="2024-11-06T10:14:00 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emiBtn -->
+        <test-method signature="rInterest()[pri:3, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:14:00 IST" name="rInterest" finished-at="2024-11-06T10:14:01 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rInterest -->
+        <test-method signature="yearLoanTenure()[pri:4, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:14:01 IST" name="yearLoanTenure" finished-at="2024-11-06T10:14:02 IST" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yearLoanTenure -->
+        <test-method signature="monthLoanTenure()[pri:5, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:14:02 IST" name="monthLoanTenure" finished-at="2024-11-06T10:14:03 IST" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthLoanTenure -->
+        <test-method signature="amountLoan()[pri:6, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:14:03 IST" name="amountLoan" finished-at="2024-11-06T10:14:06 IST" duration-ms="2988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountLoan -->
+        <test-method signature="tenureLoan()[pri:7, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:14:06 IST" name="tenureLoan" finished-at="2024-11-06T10:14:08 IST" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tenureLoan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TS003_UiValidation@c4ed84]" started-at="2024-11-06T10:14:08 IST" name="tearDown" finished-at="2024-11-06T10:14:10 IST" duration-ms="2615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TS003_UiValidation -->
+      <class name="TestCase.TS002_HomeLoanTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TS002_HomeLoanTest@5f9678e1]" started-at="2024-11-06T10:13:25 IST" name="setup" finished-at="2024-11-06T10:13:34 IST" duration-ms="8904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homeloan()[pri:0, instance:TestCase.TS002_HomeLoanTest@5f9678e1]" started-at="2024-11-06T10:13:34 IST" name="homeloan" finished-at="2024-11-06T10:13:47 IST" duration-ms="12530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TS002_HomeLoanTest@5f9678e1]" started-at="2024-11-06T10:13:47 IST" name="tearDown" finished-at="2024-11-06T10:13:50 IST" duration-ms="2929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TS002_HomeLoanTest -->
+      <class name="TestCase.TS001_CarLoanTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TS001_CarLoanTest@373ebf74]" started-at="2024-11-06T10:12:59 IST" name="setup" finished-at="2024-11-06T10:13:18 IST" duration-ms="19338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="carLoan()[pri:0, instance:TestCase.TS001_CarLoanTest@373ebf74]" started-at="2024-11-06T10:13:18 IST" name="carLoan" finished-at="2024-11-06T10:13:23 IST" duration-ms="4931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TS001_CarLoanTest@373ebf74]" started-at="2024-11-06T10:13:23 IST" name="tearDown" finished-at="2024-11-06T10:13:25 IST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TS001_CarLoanTest -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2024-11-06T10:12:58 IST" name="EdgeTest" finished-at="2024-11-06T10:14:13 IST" duration-ms="74229">
+      <class name="TestCase.TS003_UiValidation">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:13:51 IST" name="setup" finished-at="2024-11-06T10:14:00 IST" duration-ms="9108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="calcLoan()[pri:1, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:00 IST" name="calcLoan" finished-at="2024-11-06T10:14:01 IST" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calcLoan -->
+        <test-method signature="emiBtn()[pri:2, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:01 IST" name="emiBtn" finished-at="2024-11-06T10:14:01 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emiBtn -->
+        <test-method signature="rInterest()[pri:3, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:01 IST" name="rInterest" finished-at="2024-11-06T10:14:02 IST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rInterest -->
+        <test-method signature="yearLoanTenure()[pri:4, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:02 IST" name="yearLoanTenure" finished-at="2024-11-06T10:14:03 IST" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yearLoanTenure -->
+        <test-method signature="monthLoanTenure()[pri:5, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:03 IST" name="monthLoanTenure" finished-at="2024-11-06T10:14:04 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthLoanTenure -->
+        <test-method signature="amountLoan()[pri:6, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:04 IST" name="amountLoan" finished-at="2024-11-06T10:14:07 IST" duration-ms="2900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountLoan -->
+        <test-method signature="tenureLoan()[pri:7, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:07 IST" name="tenureLoan" finished-at="2024-11-06T10:14:09 IST" duration-ms="2034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tenureLoan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TS003_UiValidation@615091b8]" started-at="2024-11-06T10:14:09 IST" name="tearDown" finished-at="2024-11-06T10:14:13 IST" duration-ms="3825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TS003_UiValidation -->
+      <class name="TestCase.TS002_HomeLoanTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TS002_HomeLoanTest@71cf1b07]" started-at="2024-11-06T10:13:25 IST" name="setup" finished-at="2024-11-06T10:13:33 IST" duration-ms="8585" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homeloan()[pri:0, instance:TestCase.TS002_HomeLoanTest@71cf1b07]" started-at="2024-11-06T10:13:33 IST" name="homeloan" finished-at="2024-11-06T10:13:47 IST" duration-ms="13521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TS002_HomeLoanTest@71cf1b07]" started-at="2024-11-06T10:13:47 IST" name="tearDown" finished-at="2024-11-06T10:13:51 IST" duration-ms="3649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TS002_HomeLoanTest -->
+      <class name="TestCase.TS001_CarLoanTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TS001_CarLoanTest@1d131e1b]" started-at="2024-11-06T10:12:59 IST" name="setup" finished-at="2024-11-06T10:13:15 IST" duration-ms="16076" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="carLoan()[pri:0, instance:TestCase.TS001_CarLoanTest@1d131e1b]" started-at="2024-11-06T10:13:15 IST" name="carLoan" finished-at="2024-11-06T10:13:21 IST" duration-ms="5756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TS001_CarLoanTest@1d131e1b]" started-at="2024-11-06T10:13:21 IST" name="tearDown" finished-at="2024-11-06T10:13:25 IST" duration-ms="4057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase.TS001_CarLoanTest -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- EMI_Calculator -->
+</testng-results>
